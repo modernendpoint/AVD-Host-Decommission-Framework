@@ -205,3 +205,8 @@ This framework performs high-impact lifecycle operations.
 It is intended for experienced Azure administrators and should be tested in controlled environments prior to production use.
 
 The author assumes no responsibility for misuse or misconfiguration.
+------------------------------------------------------------------------
+
+# Part of the Modern Endpoint Governance Series
+Articles available at:
+https://menahem-suissa.ghost.io/modern-endpoint-governance-series
